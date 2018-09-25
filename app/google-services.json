@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "958093771287",
+    "firebase_url": "https://denki1-48c97.firebaseio.com",
+    "project_id": "denki1-48c97",
+    "storage_bucket": "denki1-48c97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958093771287:android:7d34aa9369f165ab",
+        "android_client_info": {
+          "package_name": "com.sample.denki1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958093771287-nhtiktbbr3d9ue6n0opimfm4is91fj3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2unVfySz9Z30d9UCFJM7Xqhcr7M1cG5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
