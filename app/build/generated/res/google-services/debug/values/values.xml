@@ -7,4 +7,5 @@
     <string name="google_app_id" translatable="false">1:958093771287:android:7d34aa9369f165ab</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2unVfySz9Z30d9UCFJM7Xqhcr7M1cG5E</string>
     <string name="google_storage_bucket" translatable="false">denki1-48c97.appspot.com</string>
+    <string name="project_id" translatable="false">denki1-48c97</string>
 </resources>
