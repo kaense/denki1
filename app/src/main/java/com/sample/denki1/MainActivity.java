@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity implements TextWatcher {
             shohidenryoku.setText(String.format("%s",key_shohidenryoku));
         }
 
-        MobileAds.initialize(getApplicationContext(), "ca-app-pub-6789227322694215~2249510282");
+        MobileAds.initialize(getApplicationContext(), "");
         AdView mAdView = (AdView) findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
